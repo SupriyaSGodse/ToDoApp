@@ -26,12 +26,12 @@ const RegisterComponent = () => {
         <div className="col-md-6 offset-mid-3">
           <div className="card">
             <div className="card-header">
-              <h2 className="text-centre"> User Registration Form</h2>
+              <h2 className="text-centre">User Registration Form</h2>
             </div>
             <div className="card-body">
               <form>
                 <div className="row mb-3">
-                  <label className="col-md-3 control-label"> Name :</label>
+                  <label className="col-md-3 control-label">Name :</label>
                   <div className="cole-md-9">
                     <input
                       type="text"
@@ -45,7 +45,7 @@ const RegisterComponent = () => {
                 </div>
 
                 <div className="row mb-3">
-                  <label className="col-md-3 control-label"> Username :</label>
+                  <label className="col-md-3 control-label">Username :</label>
                   <div className="cole-md-9">
                     <input
                       type="text"
@@ -59,7 +59,7 @@ const RegisterComponent = () => {
                 </div>
 
                 <div className="row mb-3">
-                  <label className="col-md-3 control-label"> Email :</label>
+                  <label className="col-md-3 control-label">Email :</label>
                   <div className="cole-md-9">
                     <input
                       type="text"
@@ -73,7 +73,7 @@ const RegisterComponent = () => {
                 </div>
 
                 <div className="row mb-3">
-                  <label className="col-md-3 control-label"> Password :</label>
+                  <label className="col-md-3 control-label">Password :</label>
                   <div className="cole-md-9">
                     <input
                       type="password"
